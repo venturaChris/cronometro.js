@@ -1,0 +1,19 @@
+body{
+    background-image: url(../cronometro.js/midia/lua.jfif);
+}
+
+.container{
+    text-align: center;
+    color: aliceblue;
+
+    
+}
+
+button{
+    background-color: blue;
+    color: azure;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 0px;
+}
